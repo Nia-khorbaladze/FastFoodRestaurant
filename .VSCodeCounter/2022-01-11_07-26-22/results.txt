@@ -1,0 +1,38 @@
+Date : 2022-01-11 07:26:22
+Directory : c:\Users\HP\Desktop\FastFoodRestaurant
+Total : 9 files,  916 codes, 8 comments, 58 blanks, all 982 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| CSS      |          2 |        587 |          8 |         19 |        614 |
+| HTML     |          1 |        293 |          0 |         34 |        327 |
+| XML      |          5 |         35 |          0 |          5 |         40 |
+| Markdown |          1 |          1 |          0 |          0 |          1 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                         | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                            |          9 |        916 |          8 |         58 |        982 |
+| css                                                          |          2 |        587 |          8 |         19 |        614 |
+| images                                                       |          5 |         35 |          0 |          5 |         40 |
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                     | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\HP\Desktop\FastFoodRestaurant\README.md             | Markdown |          1 |          0 |          0 |          1 |
+| c:\Users\HP\Desktop\FastFoodRestaurant\css\reset.css         | CSS      |         52 |          1 |          0 |         53 |
+| c:\Users\HP\Desktop\FastFoodRestaurant\css\style.css         | CSS      |        535 |          7 |         19 |        561 |
+| c:\Users\HP\Desktop\FastFoodRestaurant\images\Group 1300.svg | XML      |          6 |          0 |          1 |          7 |
+| c:\Users\HP\Desktop\FastFoodRestaurant\images\Group 1385.svg | XML      |         10 |          0 |          1 |         11 |
+| c:\Users\HP\Desktop\FastFoodRestaurant\images\Group 1398.svg | XML      |          8 |          0 |          1 |          9 |
+| c:\Users\HP\Desktop\FastFoodRestaurant\images\Group 1399.svg | XML      |          8 |          0 |          1 |          9 |
+| c:\Users\HP\Desktop\FastFoodRestaurant\images\Path 4240.svg  | XML      |          3 |          0 |          1 |          4 |
+| c:\Users\HP\Desktop\FastFoodRestaurant\index.html            | HTML     |        293 |          0 |         34 |        327 |
+| Total                                                        |          |        916 |          8 |         58 |        982 |
++--------------------------------------------------------------+----------+------------+------------+------------+------------+
